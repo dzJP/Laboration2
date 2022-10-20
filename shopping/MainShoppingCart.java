@@ -5,7 +5,7 @@ public class MainShoppingCart {
     public static void main(String[] args) {
 
         ShoppingCart cart1 = new ShoppingCart("Joel", "17/10/2022");
-        ShoppingCart cart2 = new ShoppingCart("Jakob", "12/10/2022");
+        ShoppingCart cart2 = new ShoppingCart("Kurt", "12/10/2022");
 
         cart1.addItem("Banana", 5);
         cart1.addItem("Apple", 7);
