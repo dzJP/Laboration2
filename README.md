@@ -1,2 +1,2 @@
-# Laboration2unfinished
-Unfinished project
+Start från Main Inventory och sedan MainShoppingCart
+
