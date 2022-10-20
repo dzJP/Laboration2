@@ -1,2 +1,2 @@
-Start från Main Inventory och sedan MainShoppingCart
+Start från MainInventory och sedan MainShoppingCart
 
